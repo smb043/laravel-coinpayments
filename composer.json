@@ -1,5 +1,5 @@
 {
-    "name": "kevupton/laravel-coinpayments",
+    "name": "smb043/laravel-coinpayments",
     "description": "Coinpayments for Laravel",
     "keywords": ["laravel", "lumen", "coinpayments"],
     "type": "Extension",
